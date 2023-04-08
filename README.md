@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on **I am currently writing code in c and c++**
 
+- 🌱 I’m currently learning **python**
+
 - 📫 How to reach me **emircangrz@gmail.com**
 
 - ⚡ Fun fact **I am funny**
