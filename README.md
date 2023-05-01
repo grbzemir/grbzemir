@@ -36,7 +36,8 @@
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=grbzemir&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=grbzemir&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=grbzemir&layout=compact)](https://github.com/grbzemir/github-readme-stats)
+
 
 
 ---
