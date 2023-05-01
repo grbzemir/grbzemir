@@ -33,7 +33,14 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grbzemir&show_icons=true&locale=en&layout=compact" alt="grbzemir" /></p>
  -->
  
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=grbzemir&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=grbzemir&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=grbzemir&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
