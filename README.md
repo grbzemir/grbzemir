@@ -30,7 +30,7 @@
 
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grbzemir&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grbzemir&show_icons=true&locale=en&layout=compact" alt="grbzemir" /></p>
  -->
