@@ -1,7 +1,6 @@
 
 
-<img align alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
+<p align="middle"><img align="middle" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> <p/>
 
 <h1 align="center">Hi 👋, I'm Emircan Gürbüz</h1>
 <h3 align="center">Management information systems</h3>
