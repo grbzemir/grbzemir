@@ -2,7 +2,7 @@
 
 <p align="middle"><img align="middle" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> <p/>
 <h1 align="center">Hi 👋, I'm Emircan Gürbüz</h1>
-<h3 align="center">%f0%9f%92%bb+Management information systems%f0%9f%92%bb+</h3>
+<h3 align="center">Management information systems</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grbzemir&label=Profile%20views&color=0e75b6&style=flat" alt="grbzemir" /> </p>
