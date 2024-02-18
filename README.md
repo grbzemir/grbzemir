@@ -1,7 +1,7 @@
 
 
 <p align="middle"><img align="middle" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> <p/>
-<br>
+
 <h1 align="center">Hi 👋, I'm Emircan Gürbüz</h1>
 <h3 align="center">Management information systems</h3>
 
