@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **I am currently writing code in c# and Html/Css**
 
-- 🌱 I’m currently learning **JavaScript** , **React** and **C#**
+- 🌱 I’m currently learning **JavaScript** **React** and **C#**
 
 - 📫 How to reach me **emircangrz@gmail.com**
 
