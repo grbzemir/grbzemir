@@ -3,7 +3,7 @@
 <p align="middle"><img align="middle" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> <p/>
 
 <h1 align="center">Hi 👋, I'm Emircan Gürbüz</h1>
-<h3 align="center">Management information systems</h3>
+<h3 align="center">I'm a Software Developer !</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grbzemir&label=Profile%20views&color=0e75b6&style=flat" alt="grbzemir" /> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **emircangrz@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ I'm Student at Trakya University MIS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
