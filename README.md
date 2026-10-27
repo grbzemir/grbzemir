@@ -18,11 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<p align="left" style="display:flex; gap:10px; align-items:center;">
-  <a href="https://twitter.com/grbzemirr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grbzemirr" height="30" width="40" />
-  </a>](url)
-
   <a href="https://linkedin.com/in/grbzemir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grbzemir" height="30" width="40" />
   </a>
